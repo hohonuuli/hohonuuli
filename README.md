@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/hohonuuli?label=Follow&style=social)](https://github.com/hohonuuli)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohonuuli&theme=tokyonight)
-
-
- <!-- [![Mastodon](assets/images/mastodon-64.jpg)](https://hachyderm.io/@Schlining) -->
-
