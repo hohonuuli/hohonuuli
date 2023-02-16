@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hohonuuli&show_icons=true&theme=tokyonight)
 
-[![Github](https://img.shields.io/github/followers/hohonuuli?label=Follow&style=social)](https://github.com/hohonuuli) [![Mastodon](assets/images/mastodon-64.jpg)](https://hachyderm.io/@Schlining)
+[![Github](https://img.shields.io/github/followers/hohonuuli?label=Follow&style=social)](https://github.com/hohonuuli)
+
+ <!-- [![Mastodon](assets/images/mastodon-64.jpg)](https://hachyderm.io/@Schlining) -->
 
