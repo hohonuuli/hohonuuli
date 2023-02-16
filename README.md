@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=hohonuuli.hohonuuli)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hohonuuli&show_icons=true&theme=tokyonight)
 
 [![Github](https://img.shields.io/github/followers/hohonuuli?label=Follow&style=social)](https://github.com/hohonuuli)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohonuuli&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hohonuuli&show_icons=true&theme=tokyonight)
 
 
